@@ -1,3 +1,15 @@
+## 🧑‍💻 About Me
+</div>
+<div align="center">
+
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Ghosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20AI%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55" />
+
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Soham+👋;Backend+Developer+from+India+🇮🇳;AI+%7C+Web+%7C+Cloud+Enthusiast+🚀;Currently+building+AI+Website+Generator+🤖;Learning+TypeScript+%2B+Next.js+📚" />
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
@@ -74,16 +86,3 @@
 ⭐ **Star my repos if you find them useful!** &nbsp;|&nbsp; Made with ❤️ from India 🇮🇳
 
 </div>
-<div align="center">
-
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Ghosh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20AI%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=55" />
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Soham+👋;Backend+Developer+from+India+🇮🇳;AI+%7C+Web+%7C+Cloud+Enthusiast+🚀;Currently+building+AI+Website+Generator+🤖;Learning+TypeScript+%2B+Next.js+📚" />
-
-</div>
-
----
-
-## 🧑‍💻 About Me

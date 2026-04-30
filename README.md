@@ -8,6 +8,10 @@
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there!+I'm+Soham+👋;Backend+Developer+from+India+🇮🇳;AI+%7C+Web+%7C+Cloud+Enthusiast+🚀;Currently+building+AI+Website+Generator+🤖;Learning+TypeScript+%2B+Next.js+📚" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+⭐ **Star my repos if you find them useful!** &nbsp;|&nbsp; Made with ❤️ from India 🇮🇳
+
 </div>
 
 ---
@@ -80,9 +84,5 @@
 <img src="https://raw.githubusercontent.com/SohamGhoshCode/SohamGhoshCode/output/snake.svg" alt="snake animation" />
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-
-⭐ **Star my repos if you find them useful!** &nbsp;|&nbsp; Made with ❤️ from India 🇮🇳
 
 </div>

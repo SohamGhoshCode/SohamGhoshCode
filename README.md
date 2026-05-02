@@ -44,10 +44,16 @@ linkedin  : linkedin.com/in/sohamghosh15
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SohamGhoshCode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=SohamGhoshCode&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
+<a href="https://github.com/SohamGhoshCode">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SohamGhoshCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGhoshCode&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGhoshCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SohamGhoshCode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 

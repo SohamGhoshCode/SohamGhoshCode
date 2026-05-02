@@ -104,7 +104,7 @@ linkedin  : linkedin.com/in/sohamghosh15
 
 | Project | Description | Stack |
 |---|---|---|
-| ⚡ **AI Website Generator** | NLP to deployable full-stack web app — type a description, get a live site | Python, Next.js, LLMs, GCP |
+| ⚡ **AI Website Generator** | NLP to deployable full-stack web app — type a description, get a live site | TypeScript, Next.js, LLMs |
 | 📊 **Analytics Dashboard** | Real-time dashboard with JWT auth, REST APIs, and live data visualisation | React, Node.js, MongoDB |
 
 </div>

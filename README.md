@@ -1,12 +1,12 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Soham%20Ghosh&fontSize=45&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=Backend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud&descSize=16&descAlignY=78&descColor=a78bfa)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Soham%20Ghosh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Backend%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud&descSize=16&descAlignY=78&descColor=a78bfa)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=540&lines=3rd+Year+CS+Student+%7C+Open+to+Work+%F0%9F%9F%A2;Building+AI+Website+Generator+%F0%9F%A4%96;Backend+%7C+Full+Stack+%7C+AI%2FML+%7C+Cloud;Let%27s+build+something+great+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=540&lines=3rd+Year+CS+Student+%7C+Open+to+Work+%F0%9F%9F%A2;Building+AI+Website+Generator+%F0%9F%A4%96;Backend+%7C+Full+Stack+%7C+AI+%7C+Cloud;Let%27s+build+something+great+together!" />
 
 </div>
 
@@ -27,14 +27,14 @@
 ```yaml
 name      : Soham Ghosh
 status    : 3rd Year CS Student — Open to Internships and Full-time Roles
-targeting : Backend | Full Stack | AI/ML | Cloud & DevOps
+targeting : Backend | Full Stack | AI | Cloud & DevOps
 location  : India (Remote Friendly)
 email     : 2004sohamghosh@gmail.com
 linkedin  : linkedin.com/in/sohamghosh15
 ```
 
 - 🔭 **Currently building:** AI Website Generator — NLP to deployable full-stack web app
-- 📚 **Learning:** TypeScript · Next.js · System Design · MLOps
+- 📚 **Learning:** TypeScript · Next.js · System Design
 - 💡 **Interests:** Scalable backend systems, AI-powered products, cloud-native architecture
 - ⚡ **Fun fact:** I enjoy turning "what if AI could..." ideas into working products
 
@@ -45,7 +45,7 @@ linkedin  : linkedin.com/in/sohamghosh15
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SohamGhoshCode&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SohamGhoshCode&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=SohamGhoshCode&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" />
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGhoshCode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
@@ -133,7 +133,7 @@ linkedin  : linkedin.com/in/sohamghosh15
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn)
 
-**Open to Backend · Full Stack · AI/ML · Cloud roles — India and Remote**
+**Open to Backend · Full Stack · AI · Cloud roles — India and Remote**
 
 *If my work resonates with you, let's connect!*
 

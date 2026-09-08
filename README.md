@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=540&lines=3rd+Year+CS+Student+%7C+Open+to+Work+%F0%9F%9F%A2;Building+AI+Website+Generator+%F0%9F%A4%96;Backend+%7C+Full+Stack+%7C+AI+%7C+Cloud;Let%27s+build+something+great+together!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=540&lines=4th+Year+CS+Student+%7C+Open+to+Work+%F0%9F%9F%A2;Building+AI+Website+Generator+%F0%9F%A4%96;Backend+%7C+Full+Stack+%7C+AI+%7C+Cloud;Let%27s+build+something+great+together!" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 ```yaml
 name      : Soham Ghosh
-status    : 3rd Year CS Student — Open to Internships and Full-time Roles
+status    : 4th Year CS Student — Open to Internships and Full-time Roles
 targeting : Backend | Full Stack | AI | Cloud & DevOps
 location  : India (Remote Friendly)
 email     : 2004sohamghosh@gmail.com
